@@ -18,4 +18,3 @@ def average_rating
 end
 
 end
-
