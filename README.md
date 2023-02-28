@@ -9,6 +9,7 @@
 -In order for you to use the content in this repo ensure you have the following:
 -  Linux
 - Mac Os
+
 -To use this repo on your machine you need to clone by either using:
 - terminal
 - forking directly from the repo.
